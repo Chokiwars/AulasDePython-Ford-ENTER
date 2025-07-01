@@ -1,0 +1,17 @@
+FOGÂO
+
+se comida estiver fria:
+	pegar panela
+	colocar comida na panela
+	ligar o fogão
+	colocar panela no fogo
+	definir fogo (baixo, médio ou alto)
+
+	enquanto comida não estiver quente:
+		esquentar
+		mexer a comida (opcional)
+	
+	desligar o fogão
+	retirar a panela do fogo
+	colocar comida no prato
+	servir
